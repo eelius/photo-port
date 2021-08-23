@@ -33,7 +33,9 @@ exports[`Nav Component snapshot match 1`] = `
             About me
           </a>
         </li>
-        <li>
+        <li
+          class="mx-2 undefined"
+        >
           <span>
             Contact
           </span>
